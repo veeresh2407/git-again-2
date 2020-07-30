@@ -1,0 +1,6 @@
+public veer:string[]=['hello',hey,haa];
+console.log(veer);
+public veer:string[]=['hello',hey,haa];
+console.log(veer);
+public veer:string[]=['hello',hey,haa];
+console.log(veer);
