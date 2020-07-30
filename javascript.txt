@@ -1,0 +1,2 @@
+let veeresh:string[]=["veer","naresh","suresh"];
+console.log(veeresh);
